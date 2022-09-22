@@ -1,0 +1,2 @@
+﻿#include /http-examples/post-crud-path-parameters/.http.mock.qa.yaml
+#include /http-examples/post-crud-query-parameters/.http.mock.qa.yaml

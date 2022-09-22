@@ -1,0 +1,5 @@
+#include /grpc-examples/counter/.grpc.mock.qa.yaml
+#include /grpc-examples/credentials/.grpc.mock.qa.yaml
+#include /grpc-examples/eShop/.grpc.mock.qa.yaml
+#include /grpc-examples/greeter/.grpc.mock.qa.yaml
+#include /grpc-examples/round-robin/.grpc.mock.qa.yaml
