@@ -7,8 +7,8 @@ calls:
   response:
     body:
       id: "{{ path.id }}"
-      title: "{{ Faker.Lorem.Sentence }}"
-      body: "{{ Faker.Lorem.Text }}"
+      title: "{{ Faker.Lorem.Sentence() }}"
+      body: "{{ Faker.Lorem.Text() }}"
 
     status: OK
 
